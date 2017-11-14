@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="txt_comment">Comments</string>
+    <string name="video1_path">https://m.tapright.net/videos-qa/2016WED11_072523_azpm0v1609.mp4</string>
+    <string name="video1_heading">Ski Boots - How to put them on</string>
+    <string name="video1_description">Ski Boots can be challenge to put on for a beginner.Don\'t worry! Follow this guide to putting on ski boots and ski in comfort</string>
+   <string name="video2_path">https://m.tapright.net/videos-qa/2016WED11_072541_5enn18ofw8.mp4</string>
+    <string name="video2_heading">How to Carry Skins - Beginner Ski Lesson</string>
+    <string name="video2_description">Carrying skis is tricky unless someone tells you how to do it properly.Ski instructor and presenter of the Ski School Series of Apps explains a couple of ways of carrying skis and things to watch out</string>
+    <string name="video3_path">https://m.tapright.net/videos-qa/2016WED11_073103_zi746em2yp.mp4</string>
+    <string name="video3_heading">Preparing to ski Parallel</string>
+    <string name="video3_description">With a strong snow plough turn and commitment you can now start to learn how yo ski parralel.Ski instructor helps you to get the uphill ski to drift in parallel at the end of the turn.</string>
+
+</resources>
